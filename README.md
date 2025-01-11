@@ -34,8 +34,6 @@ Desenvolvedor Front-end Júnior com experiência em HTML, CSS, JavaScript, Boots
 ![git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![googledrive](https://img.shields.io/badge/-googledrive-0D1117?style=for-the-badge&logo=googledrive&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![dropbox](https://img.shields.io/badge/-dropbox-0D1117?style=for-the-badge&logo=dropbox&labelColor=0D1117&textColor=0D1117)&nbsp;
-![teamviewer](https://img.shields.io/badge/-teamviewer-0D1117?style=for-the-badge&logo=teamviewer&labelColor=0D1117&textColor=0D1117)&nbsp;
-![audacity](https://img.shields.io/badge/-audacity-0D1117?style=for-the-badge&logo=audacity&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![libreofficecalc](https://img.shields.io/badge/-libreofficecalc-0D1117?style=for-the-badge&logo=libreofficecalc&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![libreofficewriter](https://img.shields.io/badge/-libreofficewriter-0D1117?style=for-the-badge&logo=libreofficewriter&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![libreofficeimpress](https://img.shields.io/badge/-libreofficeimpress-0D1117?style=for-the-badge&logo=libreofficeimpress&labelColor=0D1117&textColor=0D1117)&nbsp;
