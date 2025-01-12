@@ -44,7 +44,6 @@ Desenvolvedor Front-end Júnior com experiência em HTML, CSS, JavaScript, Boots
 ![kalilinux](https://img.shields.io/badge/-kalilinux-0D1117?style=for-the-badge&logo=kalilinux&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![linuxmint](https://img.shields.io/badge/-linuxmint-0D1117?style=for-the-badge&logo=linuxmint&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![archlinux](https://img.shields.io/badge/-archlinux-0D1117?style=for-the-badge&logo=archlinux&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ubuntu](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
   ##
