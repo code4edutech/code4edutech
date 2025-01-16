@@ -5,7 +5,7 @@
 
 ## Olá, Vamos aprender e criar juntos!👋
 
-💻 HTML| CSS | JavaScript | Bootstrap | Cross-Browser | 🤖 Robótica Educacional | 🎨 Design Gráfico
+HTML| CSS | JavaScript | Bootstrap | Cross-Browser | 🤖 Robótica Educacional | 🎨 Design Gráfico
 
 Desenvolvedor Front-end Júnior com experiência em HTML, CSS, JavaScript, Bootstrap e Cross-Browser. Também sou entusiasta de Robótica Educacional e Design Gráfico. No meu GitHub, você encontrará projetos em constante evolução e estou em busca de novas oportunidades e contratos para aplicar minhas habilidades e continuar crescendo!
 
